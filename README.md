@@ -4,7 +4,7 @@ The script will validate if you are connecting with IPv4 or IPv6 to the webpage 
 
 A live example (or demo) can be found here:
 
-Visit [PHP test IP](https://iwanhoogendoorn.nl/phptestip/) for the live PHP test IP Demo.
+Visit [PHP test IP](https://iwanhoogendoorn.nl/phptestip/){:target="_blank"} for the live PHP test IP Demo.
 
 
 Place the files in the webserver root directory of a sub-directory.
