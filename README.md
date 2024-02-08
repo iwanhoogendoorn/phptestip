@@ -1,7 +1,11 @@
 # phptestip
 This webpage/script will help you with validating your IPv4 and IPv6 local and remote addresses of your local computer and web server.
+The scrip will validate if you are connecting with IPv4 or IPv6 to the webpage and will also validate if you are using HTTP or HTTPS.
+
+Place the files in the webserver root directory of a sub-directory.
 
 ```
+My webserver root folder:
 /usr/share/nginx/html
 
 .
@@ -20,3 +24,5 @@ This webpage/script will help you with validating your IPv4 and IPv6 local and r
 |-- info.php
 |-- Iwan-hoogendoorn.logo.png
 ```
+
+When the webpage is opened something similar like the image below should appear: 
