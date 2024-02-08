@@ -3,8 +3,7 @@ This webpage/script will help you with validating your IPv4 and IPv6 local and r
 The script will validate if you are connecting with IPv4 or IPv6 to the webpage and will also validate if you are using HTTP or HTTPS.
 
 A live example (or demo) can be found here:
-
-<a href="[http://example.com/](https://iwanhoogendoorn.nl/phptestip/)" target="_blank">PHP test IP Demo</a>
+[link]([url](http://example.com/](https://iwanhoogendoorn.nl/phptestip/)){target="_blank"}
 
 Place the files in the webserver root directory of a sub-directory.
 
