@@ -26,3 +26,5 @@ My webserver root folder:
 ```
 
 When the webpage is opened something similar like the image below should appear: 
+
+![PHP test IP](/phptestip.png "PHP test IP Screenshot")
