@@ -4,6 +4,8 @@ The script will validate if you are connecting with IPv4 or IPv6 to the webpage 
 
 Visit [PHP test IP](https://iwanhoogendoorn.nl/phptestip/) for the live PHP test IP Demo.
 
+[go](http://stackoverflow.com){:target="_blank"}
+
 Place the files in the webserver root directory of a sub-directory.
 
 ```
