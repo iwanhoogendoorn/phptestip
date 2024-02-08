@@ -1,6 +1,6 @@
-# phptestip
+# PHP test IP
 This webpage/script will help you with validating your IPv4 and IPv6 local and remote addresses of your local computer and web server.
-The scrip will validate if you are connecting with IPv4 or IPv6 to the webpage and will also validate if you are using HTTP or HTTPS.
+The script will validate if you are connecting with IPv4 or IPv6 to the webpage and will also validate if you are using HTTP or HTTPS.
 
 Place the files in the webserver root directory of a sub-directory.
 
