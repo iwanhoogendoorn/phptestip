@@ -13,7 +13,6 @@ My webserver root folder:
 /usr/share/nginx/html
 
 .
-|-- 404.php
 |-- Color
 |-- favicon.ico
 |-- files
